@@ -1,0 +1,5 @@
+
+
+
+Tokin_ID = '6826604789:AAGgG8LbD2qVomrSeaiGRoCLAEoAQ7Fx5MU'
+chat_ID = '2125984486'
